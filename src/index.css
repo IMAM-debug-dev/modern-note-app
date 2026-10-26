@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body{
+    background: black;
+}
+form{
+    border: 1px solid white;
+    color: white;
+    
+    margin-top: 20px;
+
+}
+input{
+    margin-top: 20px;
+}
